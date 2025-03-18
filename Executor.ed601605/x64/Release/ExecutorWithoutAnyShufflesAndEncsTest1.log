@@ -1,0 +1,30 @@
+﻿  dllmain.cpp
+D:\Users\babaz\source\repos\ExecutorWithoutAnyShufflesAndEncsTest1\dllmain.cpp(17,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+     Creating library D:\Users\babaz\source\repos\ExecutorWithoutAnyShufflesAndEncsTest1\x64\Release\amdxx64.lib and object D:\Users\babaz\source\repos\ExecutorWithoutAnyShufflesAndEncsTest1\x64\Release\amdxx64.exp
+  Generating code
+  3 of 5884 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+zstd_static.lib(zstd_compress.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_compress.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(xxhash.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(xxhash.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(hist.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(hist.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(entropy_common.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(entropy_common.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(fse_compress.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(fse_compress.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(huf_compress.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(huf_compress.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstdmt_compress.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstdmt_compress.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_compress_sequences.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_compress_sequences.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_compress_literals.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_compress_literals.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_fast.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_fast.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_double_fast.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_double_fast.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_lazy.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_lazy.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_opt.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_opt.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_ldm.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_ldm.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(zstd_compress_superblock.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(zstd_compress_superblock.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(error_private.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(error_private.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(fse_decompress.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(fse_decompress.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(pool.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(pool.obj)' or at ''; linking object as if no debug info
+zstd_static.lib(threading.obj) : warning LNK4099: PDB '' was not found with 'zstd_static.lib(threading.obj)' or at ''; linking object as if no debug info
+  ExecutorWithoutAnyShufflesAndEncsTest1.vcxproj -> D:\Users\babaz\source\repos\ExecutorWithoutAnyShufflesAndEncsTest1\x64\Release\amdxx64.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
