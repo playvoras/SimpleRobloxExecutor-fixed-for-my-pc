@@ -6,9 +6,9 @@
 #include "zstd.h"
 #include "xxhash.h"
 
-#include "BytecodeBuilder.h"
-#include "BytecodeUtils.h"
-#include "Compiler.h"
+#include "C:\Users\Administrator\Documents\SimpleRobloxExecutor-main\Luau\BytecodeBuilder.cpp"
+#include "C:\Users\Administrator\Documents\SimpleRobloxExecutor-main\Luau\Luau\BytecodeUtils.h"
+#include "C:\Users\Administrator\Documents\SimpleRobloxExecutor-main\Luau\Luau\Compiler.h"
 
 using JobOriginalVF = uintptr_t(__fastcall*)(uintptr_t A1, uintptr_t A2, uintptr_t A3);
 
